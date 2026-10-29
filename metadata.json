@@ -1,0 +1,6 @@
+{
+  "name": "SGT3 Automação - Claro & Grupo Talentos",
+  "description": "Automação para extração de dados não estruturados, validação de regras de negócio e geração das 4 planilhas operacionais SGT3 da Claro / Grupo Talentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
